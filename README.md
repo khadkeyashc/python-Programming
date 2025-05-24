@@ -116,18 +116,4 @@ Django (for web apps)
 
 For Django and MongoDB modules, ensure the following packages are installed:
 pip install django pymongo
-📁 Folder Structure
-python-programs/
-│
-├── basic/
-├── functions/
-├── oops/
-├── regex/
-├── mongo/
-├── django/
-├── modules/
-└── simulations/
-
-This repository is intended for educational purposes. You are free to reuse and modify the code for personal or academic projects.
-You Can Modify it for Your Purpose.
 
